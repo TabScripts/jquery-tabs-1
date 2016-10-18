@@ -91,7 +91,7 @@ Open class name. Add on open pane.
 
 ## Events
 
-Firs get jquery object of your tabs widget
+First get jquery object of your tabs widget
 
 ```js
 var $tabs = $('[data-tabs-role="tabs"]');
