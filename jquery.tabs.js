@@ -1,5 +1,5 @@
 /*
- *  Tabs - v1.0.0
+ *  Tabs - v1.0.1
  *  Simple Accessible jQuery Tabs Plugin
  *  http://github.com/zoxon/jquery-tabs
  *
